@@ -4,7 +4,7 @@
         <Name>Fader</Name>
         <Author>Rory Becker</Author>
         <Version>1.0</Version>
-        <Description xml:space="preserve">CR_Fader will fadeout any lines of your code whose text starts with any configured prefixes.</Description>
+        <Description xml:space="preserve">CR_Fader is designed to reduce the visibility of any lines of your code starting with any preconfigured prefixes.</Description>
         <Locale>1033</Locale>
         <SupportedProducts>
             <VisualStudio Version="10.0">
