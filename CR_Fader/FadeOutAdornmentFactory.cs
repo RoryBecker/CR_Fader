@@ -16,7 +16,7 @@ namespace CR_Fader
     public class FadeOutAdornment : VisualObjectAdornment
     {
         public static DevExpress.DXCore.Platform.Drawing.Color BackgroundColor;
-        public static double Opacity = 0.6;
+        public static double Opacity = 0.4;
         public FadeOutAdornment(string feature, IElementFrame frame) : base(feature, frame) { }
         public override void Render(IDrawingSurface context, ElementFrameGeometry geometry)
         {
